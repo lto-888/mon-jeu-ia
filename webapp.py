@@ -88,7 +88,6 @@ with st.sidebar:
     generate_btn = st.button("✨ CRÉER LE JEU")
     
     st.markdown("---")
-    st.caption("Powered by Gemini 2.0 Flash & Streamlit")
 
 # --- 5. ZONE PRINCIPALE (L'écran de jeu) ---
 st.title("👾 AI GAME STUDIO")
